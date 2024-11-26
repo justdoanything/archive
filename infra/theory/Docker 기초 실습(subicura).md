@@ -1,5 +1,5 @@
 <!-- TOC -->
-* [0️⃣ 목표](#0-목표)
+* [0️⃣ 학습 목표](#0-학습-목표)
 * [1️⃣ 물리 머신 vs 가상 머신 vs 도커 컨테이너](#1-물리-머신-vs-가상-머신-vs-도커-컨테이너)
 * [2️⃣ Docker](#2-docker-)
 * [3️⃣ Docker Image](#3-docker-image)
@@ -27,7 +27,11 @@
 
 ---
 
-# 0️⃣ 목표
+⚠️ 이 페이지는 2021년에 작성한 페이지이며 Docker 관련한 내용을 정리하고 실습은 [subicura's blog](https://subicura.com/2017/01/19/docker-guide-for-beginners-1.html)를 참고했습니다.
+
+---
+
+# 0️⃣ 학습 목표
 - Docker에 대한 기본 이해
 - ssh_tunneling 프로그램을 docker를 활용해 구동/배포/관리가 되도록 개발
 - Gitlab - AWS - docker로 구동하는 배포 시스템을 이해 및 구현
